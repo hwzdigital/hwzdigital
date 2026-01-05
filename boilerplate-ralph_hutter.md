@@ -4,7 +4,7 @@ Der diplomierte Informatiker mit MBA-Abschluss hat über 20 Jahre Berufserfahrun
 
 Ralph ist Gründer des Product Design Toolkits (https://productdesigntoolkit.net/), einem AI basierten Toolkit für die Produktentwicklung - von der ersten Idee bis zur Markteinführung.
 
-Seit 2009 doziert er an der HWZ in verschieden CAS, MAS, EMBA Studiengängen. Als Studiengangsleiter führt er die CAS Digital Business Models & Strategy with AI HWZ und den CAS Digital Product Management with AI HWZ sowie die Vertiefungsrichtung Major in Digital Value Creation im MAS Digital Business.
+Seit 2009 doziert er an der HWZ in verschiedenen CAS, MAS und EMBA Studiengängen. Als Studiengangsleiter führt er die CAS Digital Business Models & Strategy with AI HWZ und den CAS Digital Product Management with AI HWZ sowie die Vertiefungsrichtung Major in Digital Value Creation im MAS Digital Business.
 
 Seine Themenschwerpunkte sind Digitale Geschäftsmodelle und Digital Product Management mit besonderem Fokus auf Einsatz von AI in der Produkt-, Service- und Strategieentwicklung.
 
