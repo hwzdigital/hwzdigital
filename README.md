@@ -1,5 +1,5 @@
 # hwzdigital
-Repository von: 
+Repository von
 
 CAS Digital Product Management with AI HWZ  
 CAS Digital Business Models Strategy with AI
